@@ -1,4 +1,4 @@
-package interviewPrep;
+package basics;
 
 public class HelloWorld {
 
